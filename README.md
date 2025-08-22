@@ -14,8 +14,6 @@
 
 __Apk Download Link__ : https://www.mediafire.com/file/6afam3psl47i79d/Todo+App.apk/file 
 
-__App Name__ : Todo App
-
 __Description__ :</br> A simple and intuitive Todo App that allows users to manage their tasks and to-do lists. The app is built using React Native and Expo,</br> providing a seamless user experience across Android and iOS platforms.
 
 __Features__ :</br>
